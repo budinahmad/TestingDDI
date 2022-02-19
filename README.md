@@ -55,7 +55,9 @@ Parameter = 	{
 			"gambar":"Gambar1base45"
 		}
 	}
-
+	
+Dan masih ada yang lain nya seperti update dan delete
+Terimakasih
 
 
 
